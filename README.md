@@ -1,18 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=My%20Page%20&fontSize=80)
 
-![자바](https://img.shields.io/badge/-자바-007396?style=for-the-badge&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![JPA](https://img.shields.io/badge/-JPA-000000?style=for-the-badge&logo=JPA&logoColor=white)
-![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
-![C](https://img.shields.io/badge/-C-123456?style=for-the-badge&logo=C&logoColor=black)
+### 🛠 Tech Stack
 
+| 구분 | 상세 기술 |
+| :---: | :--- |
+| **Language** | Java |
+| **Framework** | Spring Boot, JPA, MyBatis |
+| **DB** | MySQL |
+| **Infra** | Docker, AWS |
+
+---
 ### 🏫 Education
 * 멀티캠퍼스 부트캠프(KDT과정) 자바/백엔드 트랙(2025.08 ~ 2026.01)
-* 세종대학교 컴퓨터공학과(2020.03 ~ 2026.02)
+* 세종대학교 컴퓨터공학과(2020.03 ~ 2026.02) - 학점: 3.53 / 4.5
+* 데이터분석 동아리 SAI (2023.09 ~ 2023.12) - 파이썬 기반 데이터 분석 학습
 ---
 ### 🪪 Certification
 * 정보처리기사(2025.12 / 한국산업인력공단)
-
-
 
