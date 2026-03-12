@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=My%20Page%20&fontSize=80)
 
 ### 🛠 Tech Stack
-
 | 구분 | 상세 기술 |
 | :---: | :--- |
 | **Language** | Java |
