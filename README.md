@@ -4,7 +4,7 @@
 | 구분 | 상세 기술 |
 | :---: | :--- |
 | **Language** | Java |
-| **Framework** | Spring Boot, JPA, MyBatis |
+| **Framework** | Spring Boot, Spring Data JPA, MyBatis |
 | **DB** | MySQL |
 | **Infra** | Docker, AWS |
 
