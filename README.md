@@ -3,7 +3,7 @@
 ### 🛠 Tech Stack
 | 구분 | 상세 기술 |
 | :---: | :--- |
-| **Language** | JAVA |
+| **Language** | Java |
 | **Framework** | Spring Boot, Spring Data JPA, MyBatis |
 | **DB** | MySQL |
 | **Infra** | Docker, AWS |
