@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=My%20Page%20&fontSize=80)
 
 ### 👋 Introduction
-일관되고 모듈화된 코드를 지향하는 
+일관되고 모듈화된 코드를 지향하는  
 자바/백엔드 개발자입니다.  
 
 현재 리액트를 배우고 있으며  
 풀스택 개발자를 목표로 공부 중 입니다.  
 
-Email: jiheon340@gmail.com
+* Email: jiheon340@gmail.com
 
 ---
 ### 🛠 Tech Stack
