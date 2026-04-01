@@ -7,7 +7,7 @@
 현재 리액트를 배우고 있으며  
 풀스택 개발자를 목표로 공부 중 입니다.  
 
-* Email: jiheon340@gmail.com
+ * Email: jiheon340@gmail.com
 
 ---
 ### 🛠 Tech Stack
