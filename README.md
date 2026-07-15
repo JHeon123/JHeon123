@@ -28,7 +28,7 @@
 * 정보처리기사(2025.12 / 한국산업인력공단)
 * SQLD(2026.03 / 한국데이터산업진흥원)
 ---
-### Project Links
+### 🔗 Project Links
 * 전자결재시스템: https://github.com/Biz-portal-by-toUs
 * Kafka 기반 비동기 처리 과부하 테스트: https://github.com/nonkafka-vs-kafka-k6-test 
 * AI 이미지 기반 가상 여행 리뷰 플랫폼: https://github.com/JHeon123/mlp-virtual-trip
