@@ -15,7 +15,7 @@
 | **Language** | Java |
 | **Framework** | Spring Boot, JPA, MyBatis |
 | **DB** | MySQL |
-| **Message Queue** | Kafka |
+| **Message Queue** | Apache Kafka |
 | **Infra** | Docker, AWS |
 
 ---
