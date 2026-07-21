@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=My%20Page%20&fontSize=80)
 
 ### 👋 Introduction
-기본기를 중시하는 자바/백엔드 개발자입니다.  
+탄탄한 기본기를 중시하는 자바/백엔드 개발자입니다.  
 
 현재 쿠버네티스를 배우고 있으며  
 풀스택 개발자를 목표로 공부 중 입니다.
