@@ -30,6 +30,7 @@
 ---
 ### 🔗 Project Links
 * 전자결재시스템: https://github.com/Biz-portal-by-toUs
+* k3s + ArgoCD GitOps 무중단 배포 테스트: https://github.com/k3s-argocd-local
 * Kafka 기반 비동기 처리 과부하 테스트: https://github.com/nonkafka-vs-kafka-k6-test 
 * AI 이미지 기반 가상 여행 리뷰 플랫폼: https://github.com/JHeon123/mlp-virtual-trip
 
