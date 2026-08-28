@@ -16,7 +16,7 @@
 | **Framework** | Spring Boot, JPA, MyBatis |
 | **DB** | MySQL |
 | **Message Queue** | Apache Kafka |
-| **Infra** | Docker, AWS, GitHub Actions |
+| **Infra / DevOps** | Docker, AWS, GitHub Actions |
 | **Test / QA** | K6 |
 
 ---
