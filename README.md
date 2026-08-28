@@ -27,7 +27,7 @@
 ### 🪪 Certification
 * 정보처리기사 (2025.12 / 한국산업인력공단)
 * SQLD (2026.03 / 한국데이터산업진흥원)
-* 토익스피킹 (2026.08 / ETS)
+* 토익스피킹 - IM3 (2026.08 / ETS)
 ---
 ### 🔗 Project Links
 * 전자결재시스템: https://github.com/Biz-portal-by-toUs
