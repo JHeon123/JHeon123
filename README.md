@@ -17,7 +17,7 @@
 | **DB** | MySQL |
 | **Message Queue** | Apache Kafka |
 | **Infra** | Docker, AWS, GitHub Actions |
-| **Test / QA ** | K6 |
+| **Test / QA** | K6 |
 
 ---
 ### 🏫 Education
